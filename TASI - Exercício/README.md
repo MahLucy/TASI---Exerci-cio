@@ -1,2 +1,2 @@
 # TASI
-Repositório da aula tópicos avançados de sistemas de informação
+Repositório criado para a aula tópicos avançados de sistemas de informação
